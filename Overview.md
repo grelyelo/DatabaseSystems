@@ -1,7 +1,3 @@
-# About me
-- M+W @4:00 online blackboard 
-
-
 # Database Management Overview
 
 
