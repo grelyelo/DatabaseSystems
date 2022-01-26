@@ -1,5 +1,4 @@
 # About me
-- provisional email: marucio.gomez@utsa.edu
 - M+W @4:00 online blackboard 
 
 
